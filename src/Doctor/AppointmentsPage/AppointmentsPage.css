@@ -1,0 +1,30 @@
+.appointments-page {
+  width: 100%;
+  height: 100%;
+}
+
+.topbackground {
+  height: 5em;
+  width: 100%;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://res.cloudinary.com/dtldj8hpa/image/upload/v1598608290/projects/AcsTeleMed/banner.png");
+}
+
+.gradient {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom right, #7bde9d, #52b7e1);
+  opacity: 0.9;
+}
+
+.red-cancel-button {
+  border: 1px solid red;
+  padding: 4px;
+  margin-left: 16px;
+  color: red;
+  border-radius: 4px;
+}
